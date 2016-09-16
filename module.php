@@ -5,7 +5,7 @@
 * @copyright Copyright (C) YOOtheme GmbH
 * @license   http://www.gnu.org/licenses/gpl.html GNU/GPL
 */
-
+//Rabindra
 // init vars
 $id				= $module->id;
 $position		= $module->position;
